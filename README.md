@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kanak Wanjari</h1>
+
+![Uploading github.gif…]()
+
+
 <h3 align="center">Tech enthusiast and coder passionate about building software solutions with expertise in HTML, CSS, Python, and SQL</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanak-wanjari&label=Profile%20views&color=0e75b6&style=flat" alt="kanak-wanjari" /> </p>
