@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kanak Wanjari</h1>
 
-![Uploading github.gif…]()
+![github](https://github.com/Kanak-Wanjari/Kanak-Wanjari/assets/104529141/b5fc0b8a-0214-4289-830b-3d94c3808682)
 
 
 <h3 align="center">Tech enthusiast and coder passionate about building software solutions with expertise in HTML, CSS, Python, and SQL</h3>
