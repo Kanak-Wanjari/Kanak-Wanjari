@@ -3,7 +3,7 @@
 ![github](https://github.com/Kanak-Wanjari/Kanak-Wanjari/assets/104529141/b5fc0b8a-0214-4289-830b-3d94c3808682)
 
 
-<h3 align="center">Tech enthusiast and coder passionate about building software solutions with expertise in HTML, CSS, Python, and SQL</h3>
+<h3 align="center">Tech enthusiast and coder passionate about building software solutions with expertise in Data Analytics and Scripting</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanak-wanjari&label=Profile%20views&color=0e75b6&style=flat" alt="kanak-wanjari" /> </p>
 
