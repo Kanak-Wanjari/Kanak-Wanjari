@@ -3,7 +3,7 @@
 ![github](https://github.com/Kanak-Wanjari/Kanak-Wanjari/assets/104529141/b5fc0b8a-0214-4289-830b-3d94c3808682)
 
 
-<h3 align="center">Tech enthusiast and coder passionate about building software solutions with expertise in Python Scripting</h3>
+<h3 align="center">💡 Passionate Python Developer with hands-on experience in API development, automation, and web scraping. Skilled in Django, PostgreSQL, and Linux, with a strong focus on building scalable backend systems and optimizing workflows.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanak-wanjari&label=Profile%20views&color=0e75b6&style=flat" alt="kanak-wanjari" /> </p>
 
