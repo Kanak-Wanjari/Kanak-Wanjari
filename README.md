@@ -21,4 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kanak-wanjari&show_icons=true&locale=en" alt="kanak-wanjari" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanak-wanjari&" alt="kanak-wanjari" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanak-wanjari&" alt="kanak" /></p>
